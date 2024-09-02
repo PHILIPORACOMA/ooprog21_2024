@@ -26,7 +26,7 @@ public class SammysRentalPrice {
         int totalCost = (hours * 40) + Minutes;
          /*  
             if (totalMinutes < 60){
-             totalCost = 60;
+             totalCost = 40;
            } 
          */  //   Remove Multi-line comment symbols to enable same hour rate if minutes are below 60
         showMotto();
