@@ -20,14 +20,18 @@ public class SammysRentalPrice {
                    System.out.println();
                 }
         int hours = totalMinutes / 60;
-        int extraMinutes = totalMinutes % 60;
+        int Minutes = totalMinutes % 60;
 
         
-        int totalCost = (hours * 40) + extraMinutes;
-
+        int totalCost = (hours * 40) + Minutes;
+         /*  
+            if (totalMinutes < 60){
+             totalCost = 60;
+           } 
+         */  //   Remove Multi-line comment symbols to enable same hour rate if minutes are below 60
         showMotto();
         System.out.println("\nHours: " + hours);
-        System.out.println("Extra minutes: " + extraMinutes);
+        System.out.println("Minutes: " + Minutes);
         System.out.println("Total price: $" + totalCost);
     }
 }
