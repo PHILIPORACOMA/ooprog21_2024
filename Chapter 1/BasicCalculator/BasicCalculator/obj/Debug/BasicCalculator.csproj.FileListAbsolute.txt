@@ -1,0 +1,10 @@
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\ii132\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
